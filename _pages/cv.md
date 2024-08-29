@@ -179,7 +179,6 @@ Economic Research Institute
 Email: john.doe@economicresearch.com
 Phone: +123 456 7891
 
-
 ## 5. Formatting Tips
 
 - **Font:** Use a clean, professional font like Arial, Calibri, or Times New Roman, with a font size of 10-12 points.
